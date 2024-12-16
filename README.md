@@ -1,0 +1,4 @@
+# Modelos avanzados de volumetría de cerebro mediante algoritmos de Deep Learning (CEVO)
+## Aenti + Instituto de Ciencias de la Computación (ICC) + Departamento de Computación + Facultad de Ciencias Exactas y Naturales (FCEN) + UBA/CONICET
+Este proyecto se propone avanzar la Neurología y Neurociencia para colaborar con los programas abiertos de investigación de Diagnóstico por imágenes. De esta manera, se facilitará el trabajo de los especialistas en imágenes, segmentando áreas de cerebro de forma similar a los paquetes abiertos, con el agregado de post-procesamiento por Inteligencia Artificial para lograr reportes de volumetría muy detallados. Esto mejorará sustancialmente los diagnósticos vía imágenes que presenten lesiones o hallazgos extraordinarios.
+###### Link al vídeo de presentación del proyecto: https://youtu.be/NbV7ssTTr2M
